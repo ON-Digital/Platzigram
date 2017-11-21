@@ -11,4 +11,7 @@
     <string name="hint_confirm_password">Confirm password</string>
     <string name="text_button_joinus">Join us</string>
     <string name="toolbar_tittle_create_account">Create Account</string>
+    <string name="username_card">Uriel Ramirez</string>
+    <string name="firstword_card">Hace</string>
+    <string name="timecard_card">4 dias</string>
 </resources>

@@ -25,7 +25,8 @@
                 android:layout_height="wrap_content"
                 android:layout_width="wrap_content"
                 android:background="@drawable/isotipo512"
-                android:layout_centerHorizontal="true" />
+                android:layout_centerHorizontal="true"
+                android:scaleType="centerCrop"/>
 
         </RelativeLayout>
         <ScrollView
