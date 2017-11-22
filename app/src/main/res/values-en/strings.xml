@@ -15,4 +15,7 @@
     <string name="firstword_card">4 </string>
     <string name="timecard_card">days ago</string>
     <string name="likenumbercard_card">10 Likes</string>
+    <string name="tab_search">Search</string>
+    <string name="tab_profile">Profile</string>
+    <string name="tab_home">Home</string>
 </resources>
