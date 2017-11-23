@@ -24,7 +24,12 @@
                 android:value=".LoginActivity" />
         </activity>
         <activity android:name=".ReferenceActivity" />
-        <activity android:name=".view.ConteinerActivity"></activity>
+        <activity android:name=".view.ConteinerActivity"
+            android:parentActivityName=".LoginActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".LoginActivity" />
+        </activity>
     </application>
 
 </manifest>
